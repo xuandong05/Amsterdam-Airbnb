@@ -1,4 +1,4 @@
-# Amsterdam AirBnbn Data Analysis
+# Amsterdam AirBnb Data Analysis
 
 Airbnb, Inc. is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences. The company does not own any of the real estate listings, nor does it host events; it acts as a broker, receiving commissions from each booking. The company is based in San Francisco, California, United States.
 
