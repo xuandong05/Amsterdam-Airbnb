@@ -46,7 +46,7 @@ In this project I am  going to use the CRISP - DM( Cross Industry Process for Da
 
 The original datasets are available at http://insideairbnb.com/get-the-data.html
 ## Repository Structure <a name="Structure"></a>
-- The ipyinb file is the code file containing all the codes that need to be clean and wrangling, to analyzing data and producing model and graphs.
+The ipynb file is the code file containing all the codes that need to be clean and wrangling, to analyzing data and producing model and graphs.
 
 
 
