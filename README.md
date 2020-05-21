@@ -29,7 +29,7 @@ The code is written in Anaconda(Python 3) and the following libraries need to be
 
 
 ## Motivation <a name="Motivation"></a>
-As part of the projects of Udacity Data Scientist Nanodegree project I am enrolled, I wanted to do some analysis that could be applied in the real world to help me making decisions.I was interested in analyzing the dataset of airbnb listings in Amsterdam since I love travelling and Amsterdam is the city where I stayed for 5 years to get my bachelor degree. After carefully looking into the data , here are the questions that I want to analyze:
+As part of the projects of Udacity Data Scientist Nanodegree project I am enrolled, I wanted to do some analysis that could be applied in the real world to help me making decisions.I was interested in analyzing 3 datasets of airbnb in Amsterdam since I love travelling and Amsterdam is the city where I stayed for 5 years to get my bachelor degree. After carefully looking into the data , here are the questions that I want to analyze:
 1. What are the least busiest times of the year to visit Amsterdam?
 2. Which locations are most inexpensive?
 3. What are the main factors to affect the price of the rental properties?
@@ -59,7 +59,7 @@ A more detailed analysis can be found at the post here:
 ## Licensing, Authors,Acknowledgement <a name="Acknowledgement"></a>
 The project is formulated by Udacity as a part of Data Scientist Nanodegree Program and the dataset is part of Airbnb Inside. 
 The original datasets are available at http://insideairbnb.com/get-the-data.html
-Wiki: https://en.wikipedia.org/wiki/Airbnb
+Wikipedia: https://en.wikipedia.org/wiki/Airbnb
 
 
 
