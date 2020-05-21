@@ -38,8 +38,8 @@ In this project I am  going to use the CRISP - DM( Cross Industry Process for Da
 
 
 ## Repository Structure <a name="Structure"></a>
--The ipyinb file is the code file containing all the codes that need to be clean and wrangling, to analyzing data and producing model and graphs.
--The csv files is the 3 datasets that AirBnB provided for Amsterdam: 
+- The ipyinb file is the code file containing all the codes that need to be clean and wrangling, to analyzing data and producing model and graphs.
+- The csv files is the 3 datasets that AirBnB provided for Amsterdam: 
 1. listings.csv - Summary information and metrics for listings in Amsterdam. 
 2. calendar.csv - Detailed Calendar Data for listings in Amsterdam. 
 3. reviews.csv - summary review data for the listings. 
