@@ -54,7 +54,7 @@ A more detailed analysis can be found at the post here:
 ## Licensing, Authors,Acknowledgement <a name="Acknowledgement"></a>
 The project is formulated by Udacity as a part of Data Scientist Nanodegree Program and the dataset is part of Airbnb Inside. 
 The original datasets are available at http://insideairbnb.com/get-the-data.html
-
+Wiki: https://en.wikipedia.org/wiki/Airbnb
 
 
 
