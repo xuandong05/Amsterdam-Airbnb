@@ -7,6 +7,7 @@ The company was conceived after its founders put an air mattress in their living
 # Table of contents
 1. [Installation](#Installation)
 2. [Motivation](#Motivation)
+3. [Files](#Files)
 3. [Repository Structure](#Structure)
 4. [Results](#Results)
 5. [Licensing,Authors,Acknowledgements](#Licensing)
@@ -37,12 +38,15 @@ In this project I am  going to use the CRISP - DM( Cross Industry Process for Da
 
 
 
+## Files
+3 datasets that Airbnb provides will be used in this project: 
+- listings.csv:Summary information and metrics for listings in Amsterdam
+- calendar.csv: Calendar Data for listings in Amsterdam 
+- reviews.csv: Summary Review data and Listing ID
+The original datasets are available at http://insideairbnb.com/get-the-data.html
 ## Repository Structure <a name="Structure"></a>
 - The ipyinb file is the code file containing all the codes that need to be clean and wrangling, to analyzing data and producing model and graphs.
-- The csv files is the 3 datasets that AirBnB provided for Amsterdam: 
-1. listings.csv - Summary information and metrics for listings in Amsterdam. 
-2. calendar.csv - Detailed Calendar Data for listings in Amsterdam. 
-3. reviews.csv - summary review data for the listings. 
+
 
 
 
