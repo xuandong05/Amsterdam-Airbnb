@@ -52,7 +52,7 @@ The ipynb file is the code file containing all the codes written to clean and wr
 
 
 ## Results <a name="Results"></a>
-A more detailed analysis can be found at the post here:
+A more detailed analysis can be found at the post here:https://medium.com/@xuandong05/can-machine-learning-model-accurately-gauge-the-rental-price-in-amsterdam-and-when-to-go-to-14fe16d2505f
 
 
 
